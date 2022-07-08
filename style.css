@@ -50,6 +50,7 @@ body.night {
 }
 
 img#user {
+    margin-top: 10px;
     width: 100%;
     border-radius: 50%;
     width:  100px;
